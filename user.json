@@ -1,0 +1,12 @@
+[
+    {
+        "user": "Suryansh",
+        "money": 200.0,
+        "rate": "INR"
+    },
+    {
+        "user": "Baku",
+        "money": 200000.0,
+        "rate": "INR"
+    }
+]
